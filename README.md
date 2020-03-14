@@ -5,6 +5,7 @@ In this application you can easily intergrate mailchimp newsletter with your lar
 You have to put mailchimp api key and audience id.
 
 MAILCHIMP_APIKEY = 
+
 MAILCHIMP_LIST_ID = 
 
 Goto .env file you will find this two line.
